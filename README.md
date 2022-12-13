@@ -1,8 +1,3 @@
-### :woman_technologist: About Me :
-- 👋 Hi, I’m Nguyen
-- 👀 I am a Full Stack Developer <img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e473bp4q9z1bcn5dcvecc0bj65wd6kluad78rtw917x&rid=giphy.gif&ct=g" width="30"> from VietNam <img src="https://bestanimations.com/media/vietnam/1200546703vietnam-flag-waving-animated-gif-4.gif" width="30">
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/nGMnDqebzDcfm/giphy.gif?cid=ecf05e47x4bnukp27oyg9no81lz6ja8ovdryrrk8nqn0hkws&rid=giphy.gif&ct=g" width="100"/>
   <div id="badges">
@@ -16,11 +11,17 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <h1>
-  hey there
+  Hi there👋 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 </div>
+
+### :woman_technologist: About Me :
+- 👋 Hi, I’m Nguyen
+- 👀 I am a Full Stack Developer <img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e473bp4q9z1bcn5dcvecc0bj65wd6kluad78rtw917x&rid=giphy.gif&ct=g" width="30"> from VietNam <img src="https://bestanimations.com/media/vietnam/1200546703vietnam-flag-waving-animated-gif-4.gif" width="30">
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
 ### :writing_hand: Languages and Tools:
 <div>
