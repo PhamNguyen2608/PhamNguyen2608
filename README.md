@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e473bp4q9z1bcn5dcvecc0bj65wd6kluad78rtw917x&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.mp4?cid=ecf05e473bp4q9z1bcn5dcvecc0bj65wd6kluad78rtw917x&rid=giphy.mp4&ct=g" width="100"/>
 </div>
 ### :writing_hand: Languages and Tools:
 <div>
