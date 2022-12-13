@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+### :woman_technologist: About Me :
 - 👋 Hi, I’m Nguyen
-- 👀 I’m full-stack developer 
+- 👀 I am a Full Stack Developer <img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e473bp4q9z1bcn5dcvecc0bj65wd6kluad78rtw917x&rid=giphy.gif&ct=g" width="30"> from VietNam.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <div id="header" align="center">
