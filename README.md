@@ -20,8 +20,8 @@
 ### :woman_technologist: About Me :
 - 👋 Hi, I’m Nguyen
 - 👀 I am a Full Stack Developer <img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e473bp4q9z1bcn5dcvecc0bj65wd6kluad78rtw917x&rid=giphy.gif&ct=g" width="30"> from VietNam <img src="https://bestanimations.com/media/vietnam/1200546703vietnam-flag-waving-animated-gif-4.gif" width="30">
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I had a deep passion for code
+
 
 ### :writing_hand: Languages and Tools:
 <div>
