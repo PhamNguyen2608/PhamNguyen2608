@@ -36,5 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-### 
+
+
+
 :sunglasses: ***Let's connect with me, I will working hard and strive for the highest of goals.I think that my biggest attribute to any success that I have had is hard work.***
